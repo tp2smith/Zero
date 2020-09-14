@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zero</string>
+    <string name="s0">영</string>
+    <string name="s1">하나</string>
+    <string name="s2">둘</string>
+    <string name="s3">셋</string>
+    <string name="s4">넷</string>
+    <string name="s5">다섯</string>
+    <string name="s6">여섯</string>
+    <string name="s7">일곱</string>
+    <string name="s8">여덟</string>
+</resources>
